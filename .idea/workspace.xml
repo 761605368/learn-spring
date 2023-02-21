@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d2254c5-b98d-45ee-9998-0ff0d0c0f72c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/chapter3-instantiation">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LxiRFZIvMCMy1U3onxCWQjuIT2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.48735633" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Chapter2BeandefinitionApplicationTests.contextLoads (1)">
+    <configuration name="Chapter2BeandefinitionApplicationTests.contextLoads (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter3-instantiation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.chapter2beandefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.chapter2beandefinition" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.chapter2beandefinition.Chapter2BeandefinitionApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter2BeandefinitionApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter2-beandefinition" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baidu.chapter2beandefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baidu.chapter2beandefinition" />
+      <option name="MAIN_CLASS_NAME" value="com.baidu.chapter2beandefinition.Chapter2BeandefinitionApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chapter2BeandefinitionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="chapter2-beandefinition" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baidu.chapter2beandefinition.Chapter2BeandefinitionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LearnSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="learn-spring" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baidu.learnspring.LearnSpringApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Chapter2BeandefinitionApplicationTests.contextLoads (1)" />
+        <item itemvalue="JUnit.Chapter2BeandefinitionApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d2254c5-b98d-45ee-9998-0ff0d0c0f72c" name="Default Changelist" comment="" />
+      <created>1676819124028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676819124028</updated>
+      <workItem from="1676819132419" duration="4463000" />
+      <workItem from="1676907102501" duration="3942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="480" y="192" key="#Inspections" timestamp="1676903451356">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="480" y="192" key="#Inspections/0.0.1707.1027@0.0.1707.1027" timestamp="1676903451356" />
+    <state x="659" y="219" width="667" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1676977719457">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="659" y="219" width="667" height="588" key="#com.intellij.ide.util.MemberChooser/0.0.1707.1027@0.0.1707.1027" timestamp="1676977719457" />
+    <state x="609" y="216" key="#xdebugger.evaluate" timestamp="1676978617948">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="609" y="216" key="#xdebugger.evaluate/0.0.1707.1027@0.0.1707.1027" timestamp="1676978617948" />
+    <state x="634" y="269" key="FileChooserDialogImpl" timestamp="1676907175963">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="634" y="269" key="FileChooserDialogImpl/0.0.1707.1027@0.0.1707.1027" timestamp="1676907175963" />
+    <state width="1662" height="422" key="GridCell.Tab.0.bottom" timestamp="1676978622325">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.0.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1676978622325" />
+    <state width="1662" height="422" key="GridCell.Tab.0.center" timestamp="1676978622325">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.0.center/0.0.1707.1027@0.0.1707.1027" timestamp="1676978622325" />
+    <state width="1662" height="422" key="GridCell.Tab.0.left" timestamp="1676978622325">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.0.left/0.0.1707.1027@0.0.1707.1027" timestamp="1676978622325" />
+    <state width="1662" height="422" key="GridCell.Tab.0.right" timestamp="1676978622325">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.0.right/0.0.1707.1027@0.0.1707.1027" timestamp="1676978622325" />
+    <state width="1662" height="422" key="GridCell.Tab.1.bottom" timestamp="1676978612293">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.1.bottom/0.0.1707.1027@0.0.1707.1027" timestamp="1676978612293" />
+    <state width="1662" height="422" key="GridCell.Tab.1.center" timestamp="1676978612293">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.1.center/0.0.1707.1027@0.0.1707.1027" timestamp="1676978612293" />
+    <state width="1662" height="422" key="GridCell.Tab.1.left" timestamp="1676978612293">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.1.left/0.0.1707.1027@0.0.1707.1027" timestamp="1676978612293" />
+    <state width="1662" height="422" key="GridCell.Tab.1.right" timestamp="1676978612293">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state width="1662" height="422" key="GridCell.Tab.1.right/0.0.1707.1027@0.0.1707.1027" timestamp="1676978612293" />
+    <state x="334" y="88" key="SettingsEditor" timestamp="1676905517587">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="334" y="88" key="SettingsEditor/0.0.1707.1027@0.0.1707.1027" timestamp="1676905517587" />
+    <state x="241" y="174" key="new project wizard" timestamp="1676907332682">
+      <screen x="0" y="0" width="1707" height="1027" />
+    </state>
+    <state x="241" y="174" key="new project wizard/0.0.1707.1027@0.0.1707.1027" timestamp="1676907332682" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter3-instantiation/src/main/java/com/baidu/chapter2beandefinition/beanfactory/AbstractBeanFactory.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/chapter3-instantiation/src/main/java/com/baidu/chapter2beandefinition/beanfactory/AbstractBeanFactory.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
